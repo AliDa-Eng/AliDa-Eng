@@ -19,7 +19,7 @@ I'm an Electrical Engineer with expertise in FPGA design, ASIC verification, and
 	Programmed state-machine logic for movement (left/right/forward/backward).
 	Fine-tuned sensor thresholds for accurate decision-making and obstacle avoidance.
 
-  - **GUI Modelling Software (Python, Tkinter)**: [GitHub Link] 
+- **GUI Modelling Software (Python, Tkinter)**: [GitHub Link] 
 	Built a Graphical User Interface (GUI) for high-frequency neural network modeling.
 	Integrated real-time visualization of AI model performance.
 	Managed data flow integration between UI and neural network back-end. 
