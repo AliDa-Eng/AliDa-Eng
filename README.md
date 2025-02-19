@@ -26,7 +26,7 @@ I'm an Electrical Engineer with expertise in FPGA design, ASIC verification, and
 
 
 ## Resume
-View my full resume [here](resume.pdf).
+View my full resume [here](Ali_Dahir_Resume.pdf).
 
 ## Contact
 - Email: alidahir@cmail.carleton.ca
